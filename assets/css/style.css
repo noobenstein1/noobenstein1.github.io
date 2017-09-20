@@ -1,0 +1,32 @@
+h1{
+	color: #FFFFFF;
+}
+
+h2{
+	background-color: #FFFFFF;
+}
+
+body{
+	background-image: url("../images/ep_naturalwhite.png");
+	background-color: #333;
+	width: 960px;
+	height: 700px;
+}
+
+.background{
+	background-image: "images/ep_naturalwhite.png";
+}
+.name{
+	background-color: #4AAAA5;
+	padding: 20px;
+	width: 20%;
+}
+.tealtext{
+	color: #4AAAA5;
+	background-color: none;
+}
+
+.social{
+	height: 200px;
+	width: 200px;
+}
